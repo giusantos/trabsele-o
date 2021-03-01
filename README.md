@@ -15,13 +15,13 @@ Uma aplicação Java em terminal para trabalhar com eventos.
 
 Clique aqui
 
-![](comorodar)
+![](comorodar.png)
 
 ### Obs:
 
 Usei um método para gerar informações falsas, assim facilitando os meus testes. Caso queira rodar a aplicação com informações dinâmicas deverá comentar o método na imagem a seguir e "descomentar" o bloco.
 
-![](obs)
+![](obs.png)
 
 ### Feito com
 
